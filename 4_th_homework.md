@@ -22,6 +22,6 @@
 ![](https://github.com/calturins/calturins/blob/master/1880.png)
 И в 1890-е тоже. На периферии появляется Достоевский
 ![](https://github.com/calturins/calturins/blob/master/1890.png)
-
+К началу XX века канон "золотого века русской литературы" уже вполне сформирован. Это то, с чем будет работать советский канон, добавляя одних авторов и исключая других. Но это уже совсем другая история...
 ![](https://github.com/calturins/calturins/blob/master/1900.png)
-Социальная сеть писателей из хрестоматий 1900-х гг. в виде [веб-сайта](https://calturins.github.io/russian_anthologies "веб-сайта")
+Связи хрестоматийных писателей 1900-х годов представлены в виде [веб-сайта](https://calturins.github.io/russian_anthologies "веб-сайта")
